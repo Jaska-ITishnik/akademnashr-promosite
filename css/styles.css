@@ -1,0 +1,96 @@
+h1 {
+  background-color: #ff9c45;
+  color: black;
+  line-height: 90px;
+  font-weight: bold;
+  font-size: 60px;
+}
+.site-header {
+ background-color: white;
+}
+.site-nav {
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 15px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  list-style: none;
+}
+.button {
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 15px;
+  background-color: #ff7500;
+  color: white;
+
+}
+.hero {
+  background-color: rgba(0, 0, 0, 0.81);
+  color: white;
+}
+.buyurtma {
+  color: white;
+  font-size: 20px;
+}
+.hero-content {
+  width: 390px;
+  height: 340px;
+}
+.hero-heading {
+font-size: 40px;
+line-height:1.2 ;
+letter-spacing:0.5px ;
+}
+.orange-line {
+  background-color: #ff7500;
+  width: 80px;
+  height: 3px;
+}
+.hero-text {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.5px;
+}
+.features-heading {
+  width: 440px;
+  font-size: 72px;
+  line-height: 1.2;
+}
+.feature-rasmi {
+  width: 300px;
+  font-size: 36px;
+  line-height:1 ;
+}
+.feature-text {
+font-size: 20px;
+color: #ff7500;
+}
+.promo-highlight {
+  color: #ff7500;
+}
+.futter-heder {
+  font-size: 40px;
+  background-color: #ff7500;
+}
+.futer-line {
+  font-size: 2px;
+  background-color: rgba(37,36,32,0.5);
+}
+ /*.futter-links {
+ text-decoration:none ;
+ color: black;
+}*/
+.link-pharagraph {
+  font-weight: bold;
+}
+ul a {
+  text-decoration: none;
+  color: #ff7500;
+
+}
+
+ul {
+list-style-type: none;
+}
