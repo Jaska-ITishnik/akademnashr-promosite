@@ -2,6 +2,10 @@
   background-color: #ff7500;
   height: 2px;
 }
+*:focus {
+  outline: 2px dotted #ff7500 ;
+  outline-offset: 3px;
+}
 h1 {
   background-color: #ff9c45;
   color: black;
