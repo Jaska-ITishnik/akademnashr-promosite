@@ -32,6 +32,27 @@ h1 {
 	align-content:flex-start;
   font-weight: bold;
 }
+
+.Child_1 :hover{
+color: #ff7700;
+transition:color 0.5s ease;
+}
+.Child_2 :hover{
+ color: #ff7500;
+transition:color 0.5s ease ;
+  }
+.Child_3 :hover{
+ color:#ff7500;
+transition:color 0.5s ease ;
+    }
+.button:hover {
+  background-color:black;
+  color:goldenrod;
+transition:background-color 0.5s ease ;
+}
+.button:active {
+  background-color: rgba(0, 0, 0, 0.5);
+}
 /*.little {
   background-color:#ff7500;
 }*/
@@ -45,13 +66,7 @@ h1 {
   display: inline-block;
   font-size: 16px;
 }
-button:active{
-  background-color: green;
-}
-/*Change button color on hover*/
-button:hover{
-  background-color: blue;
-}
+
 .hero {
   background-color: rgba(0,0,0,0.81);
   color: white;
